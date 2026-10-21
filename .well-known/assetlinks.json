@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mdsanu2018_netizen.twa",
+        "sha256_cert_fingerprints": ["C2:DA:6F:D9:39:3A:AF:3B:3C:92:E2:8A:9F:EA:C9:7E:E0:23:0F:D2:D1:F7:A2:02:EC:BC:06:3E:2A:EC:A1:A6"]
+      }
+    }]
